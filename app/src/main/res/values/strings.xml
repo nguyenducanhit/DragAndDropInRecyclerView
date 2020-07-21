@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DragAndDropWithItemViewType</string>
+    <string-array name="selection">
+        <item>One view type, One column</item>
+        <item>One view type, Two column</item>
+        <item>Two view type, One column</item>
+        <item>Two view type, Two column</item>
+    </string-array>
+</resources>
